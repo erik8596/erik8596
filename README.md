@@ -16,21 +16,27 @@ A full-stack, interactive 3D visualization platform developed by a four-person c
 
 **My contributions:** Agile team leadership, UI/UX development, data integration, automated testing, and continuous integration.
 
-### [Lab-Rador — AI-Assisted Protocol Generation](https://github.com/erik8596/Lab-Rador)
-
-A Python command-line hackathon prototype that uses language-model APIs and Pydantic data models to turn natural-language prompts into structured laboratory-protocol drafts, with Markdown and JSON output. Intended as a software demonstration, not a validated laboratory automation system.
-
-**Stack:** Python, Typer, Pydantic, Google Gemini / Anthropic APIs.
-
 ### [PiCaster — Raspberry Pi Weather Station](https://github.com/erik8596/PiCaster)
 
 A Python-based weather-monitoring project that reads environmental data from a Pimoroni Weather HAT, compares selected measurements with OpenWeatherMap observations, and publishes readings to Adafruit IO.
 
 **Stack:** Python, Raspberry Pi, sensor integration, REST APIs, Adafruit IO.
 
+### [Sentinel Skies — Unity Tower Defense Game](https://github.com/erik8596/Sentinel-Skies)
+
+A 2D tower-defense game featuring wave-based enemies, turret placement and upgrades, currency management, level progression, and configurable game settings. The repository includes C# gameplay scripts, screenshots, and a packaged macOS game build.
+
+**Stack:** C#, Unity, Unity 2D physics, object-oriented and event-driven gameplay systems.
+
+### [Lab-Rador — AI-Assisted Protocol Generation](https://github.com/erik8596/Lab-Rador)
+
+A Python command-line hackathon prototype that uses language-model APIs and Pydantic data models to turn natural-language prompts into structured laboratory-protocol drafts, with Markdown and JSON output. Intended as a software demonstration, not a validated laboratory automation system.
+
+**Stack:** Python, Typer, Pydantic, Google Gemini / Anthropic APIs.
+
 ## Technical Skills
 
-**Languages:** Python, Java, C++, C, JavaScript, TypeScript, SQL, Bash
+**Languages:** Python, Java, C#, C++, C, JavaScript, TypeScript, SQL, Bash
 
 **Frameworks & Tools:** Flask, React, Three.js, Docker, Git, GitHub Actions, PyTest, Jest
 
